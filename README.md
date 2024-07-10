@@ -1,1 +1,3 @@
 # Advanced-Excel-Project
+In this project Vrinda store wants to create an annual sales report for 2022.So that, Vrinda can understand their customers and grow more sales in 2023.
+I have done data cleaning, data processing,data visualization, reports and insights in this project.
